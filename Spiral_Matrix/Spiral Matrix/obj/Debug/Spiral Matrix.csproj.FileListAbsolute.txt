@@ -1,0 +1,6 @@
+D:\Sameer\VS Projects\Spiral Matrix\Spiral Matrix\bin\Debug\Spiral Matrix.exe.config
+D:\Sameer\VS Projects\Spiral Matrix\Spiral Matrix\bin\Debug\Spiral Matrix.exe
+D:\Sameer\VS Projects\Spiral Matrix\Spiral Matrix\bin\Debug\Spiral Matrix.pdb
+D:\Sameer\VS Projects\Spiral Matrix\Spiral Matrix\obj\Debug\Spiral Matrix.csprojResolveAssemblyReference.cache
+D:\Sameer\VS Projects\Spiral Matrix\Spiral Matrix\obj\Debug\Spiral Matrix.exe
+D:\Sameer\VS Projects\Spiral Matrix\Spiral Matrix\obj\Debug\Spiral Matrix.pdb
