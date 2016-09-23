@@ -1,0 +1,6 @@
+D:\Sameer\VS Projects\RevengeOfThePancakes\RevengeOfThePancakes\bin\Debug\RevengeOfThePancakes.exe.config
+D:\Sameer\VS Projects\RevengeOfThePancakes\RevengeOfThePancakes\bin\Debug\RevengeOfThePancakes.exe
+D:\Sameer\VS Projects\RevengeOfThePancakes\RevengeOfThePancakes\bin\Debug\RevengeOfThePancakes.pdb
+D:\Sameer\VS Projects\RevengeOfThePancakes\RevengeOfThePancakes\obj\Debug\RevengeOfThePancakes.csprojResolveAssemblyReference.cache
+D:\Sameer\VS Projects\RevengeOfThePancakes\RevengeOfThePancakes\obj\Debug\RevengeOfThePancakes.exe
+D:\Sameer\VS Projects\RevengeOfThePancakes\RevengeOfThePancakes\obj\Debug\RevengeOfThePancakes.pdb
